@@ -16,7 +16,7 @@
 | **IN_OUT	IP_C** | IP_C (Parametrierungsdaten) |
 | **S_BUF** | NETWORK_BUFFER (Sendedaten) |
 | **INPUT	TEXT** | STRING(STRING_LENGTH) (Ausgabe Text) |
-| **S_BUF_SIZE** | UINT ((Größe des S_BUF-Puffers) |
+| **S_BUF_SIZE** | UINT (Größe des S_BUF-Puffers) |
 | **ENABLE** | BOOL (Freigabe Kommunikation) |
 | **SEND** | BOOL (positive Flanke - Sendeanstoß) |
 | **OPTION** | BYTE (Sende-Optionen) |
